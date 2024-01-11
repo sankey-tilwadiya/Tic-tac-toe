@@ -1,1 +1,1 @@
-﻿# javascript mini projects
+﻿# Tic-tac toe
